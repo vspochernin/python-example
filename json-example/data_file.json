@@ -1,0 +1,26 @@
+[
+    {
+        "low_beam_headlight_on": true,
+        "high_beam_headlight_on": true,
+        "left_turn_signal_on": true,
+        "right_turn_signal_on": true,
+        "daytime_running_lights_on": true,
+        "reverse_light_on": true,
+        "fog_light_on": true,
+        "parking_light_on": true,
+        "light_bar_activated": true,
+        "siren_activated": true
+    },
+    {
+        "low_beam_headlight_on": false,
+        "high_beam_headlight_on": false,
+        "left_turn_signal_on": false,
+        "right_turn_signal_on": false,
+        "daytime_running_lights_on": false,
+        "reverse_light_on": false,
+        "fog_light_on": false,
+        "parking_light_on": false,
+        "light_bar_activated": false,
+        "siren_activated": false
+    }
+]
